@@ -94,3 +94,11 @@ border: 1px solid white;
     height: 100px;
   }
 }
+
+::-webkit-scrollbar{ 
+
+background-color: #191920;
+width: 5px;
+
+
+}
